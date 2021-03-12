@@ -1,16 +1,15 @@
-### Hi there 👋
+### Here is What I'm Working On ! 👋
 
-<!--
-**abhishek96k/abhishek96K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...Web Development
+- 🌱 I’m currently learning ...JavaScript
+- 👯 I’m looking to collaborate on ...JavaScript
+- 🤔 I’m looking for help with ...Web Development
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...[ Linkedin ] (https://www.linkedin.com/in/abhisheknalawade/)
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I am half Finish 
 -->
