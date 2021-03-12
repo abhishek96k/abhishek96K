@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...JavaScript
 - 🤔 I’m looking for help with ...Web Development
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[ Linkedin ] (https://www.linkedin.com/in/abhisheknalawade/)
+- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/abhisheknalawade/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am half Finish 
 -->
