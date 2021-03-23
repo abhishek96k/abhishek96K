@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Web Development
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/abhisheknalawade/)
-- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Not many people know this about me, but when I was younger, I…
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek96k&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
