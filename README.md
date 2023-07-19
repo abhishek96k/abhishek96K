@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek_96k" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_96k?logo=twitter&style=for-the-badge" alt="abhishek_96k" /></a> </p>
 
-- 🔭 I’m currently working on **Academic Project**
+- 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Java,Node.js,**
+- 🌱 I’m currently learning **React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
