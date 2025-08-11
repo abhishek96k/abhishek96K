@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **Fullstack Project**
 
-- 🌱 I’m currently learning **Next.js and GraphQL**
-
-- 💬 Ask me about **React, Vue and Node**
+- 🌱 I’m currently learning **GenAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
